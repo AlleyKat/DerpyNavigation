@@ -1,0 +1,13 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="elements\vars.lua"/>
+	<Script file="elements\minimap.lua"/>
+	<Script file="elements\map.lua"/>
+	<Script file="elements\buffs.lua"/>
+	<Script file="elements\weaponench.lua"/>
+	<Script file="elements\toprightmenu.lua"/>
+	<Script file="elements\reminder.lua"/>
+	<Script file="elements\tweaks.lua"/>
+	<Script file="elements\raidmenu.lua"/>
+	<Script file="elements\micromap.lua"/>
+	<Script file="elements\exit.lua"/>
+</Ui>
